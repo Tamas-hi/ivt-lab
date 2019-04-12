@@ -2,11 +2,7 @@
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
-<<<<<<< HEAD
-The application is simplified and deliberately contains bugs. Modification by branch-A
-=======
-The application is simplified and deliberately contains bugs. Modified by branch B
->>>>>>> branch-B
+The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
