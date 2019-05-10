@@ -1,5 +1,13 @@
 # IVT Spaceship project
 
+# Tests
+
+wasPrimaryFiredLast értéke hamis, amikor elsütjük a második torpedót.
+wasPrimaryFiredLast értéke igaz, amikor elsütjük az első torpedót.
+primaryTorpedoStore amikor nem üres, akkor getCount értéke nem 0.
+secondaryTorpedoStore amikor nem üres, akkor getCount értéke nem 0.
+Amikor a primaryTorpedoStore és a secondaryTorpedoStore nem üres, akkor egyik getCount sem 0.
+
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs. Modification by branch-A
